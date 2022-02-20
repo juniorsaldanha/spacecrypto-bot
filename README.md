@@ -18,6 +18,6 @@ Parts - Things that im doing, and need to finish, if u want to help, **PR are we
 
 ## Developers
 As long peolple are helping with some PR, ill added the users here. :)
-| Name | GitHub| LinkedIn |
-| - | - | - | - |
+|        Name      |      GitHub      |      LinkedIn      |
+| ---------------- | ---------------- | ---------------- |
 |Junior Saldanha | [![](https://bit.ly/3f9Xo0P)](https://github.com/juniorsaldanha/)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/umsaldanha/) |
